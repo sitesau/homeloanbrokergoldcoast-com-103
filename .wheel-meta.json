@@ -1,0 +1,19 @@
+{
+  "wheel_id": 373,
+  "structure": "umbrella",
+  "slug": "homeloanbrokergoldcoast-com-103",
+  "project": "home-loan-broker-gold-coast-comparison-22e8a058fe3588e32af0eb0e",
+  "parent_t1_ref": "homeloanbrokergoldcoast-com-151",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokergoldcoast.com.au",
+  "primary_kw": "home loan broker gold coast comparison",
+  "intended_url": "https://sitesau.github.io/homeloanbrokergoldcoast-com-103/",
+  "writeback_nonce": "834975bd7ffd34ed",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/home-loan-broker-gold-coast-2339876b683c3b0be388c326799773a3/",
+      "anchor": "home loan broker gold coast",
+      "rel": "follow"
+    }
+  ]
+}
